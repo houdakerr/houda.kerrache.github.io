@@ -10,6 +10,6 @@
     <foaf:givenName>Houda</foaf:givenName>
     <foaf:familyName>Kerrache</foaf:familyName>
     <foaf:mbox rdf:resource="mailto:kerrhouda@gmail.com"/>
-    <foaf:homepage rdf:resource="https://github.com/houdakerr/houda.kerrache.github.io.git/"/>
+    <foaf:homepage rdf:resource="https://github.com/houdakerr/houda.kerrache.github.io"/>
   </foaf:Person>
 </rdf:RDF>
